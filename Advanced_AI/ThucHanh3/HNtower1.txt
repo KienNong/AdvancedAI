@@ -1,0 +1,5 @@
+3
+3 2 1
+0
+0
+note: cột A có 3 đĩa; 2 cột còn lại không có đĩa nào
